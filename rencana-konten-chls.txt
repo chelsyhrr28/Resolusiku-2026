@@ -1,6 +1,7 @@
 RENCANA KONTEN CHLS
 
 - KONTEN EDUKASI 
+  *Rekomendasi buku
 - KONTEN TRAVELING
   * Mendaki 
   * Air Terjun
